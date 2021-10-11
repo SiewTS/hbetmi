@@ -55,6 +55,6 @@ body{
     display: none;
 }
 @keyframes example {
-    0%   {fill:red;}
+    0%   {fill:rgb(255, 135, 37);}
     100% {fill:black;}
   }
