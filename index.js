@@ -27,3 +27,6 @@ const toggleSong=(bdsong)=>{
         isPlaying = false;
     }
 }
+
+console.log('I\'m glad you come back here, Happy Birthday ;)');
+console.log('向你借那十分钟其实是想请你吃冰淇淋而已。。。');
